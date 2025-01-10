@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Funcional  programming\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CBB9DE-F71D-4FCF-AE88-4F2C23E6A030}|..\\Task5\\Task5.fsproj|e:\\github\\funcional  programming\\task5\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A184615-117E-4182-9A9A-49FDE42C9EE2}|..\\Task 2\\Task2.fsproj|e:\\github\\funcional  programming\\task 2\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3560517-5D7E-4D84-9A33-ADD1A35C719E}|Task1.fsproj|e:\\github\\funcional  programming\\task1\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{D3560517-5D7E-4D84-9A33-ADD1A35C719E}|Task1.fsproj|solutionrelative:program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "E:\\GitHub\\Funcional  programming\\Task5\\Program.fs",
+              "RelativeDocumentMoniker": "..\\Task5\\Program.fs",
+              "ToolTip": "E:\\GitHub\\Funcional  programming\\Task5\\Program.fs",
+              "RelativeToolTip": "..\\Task5\\Program.fs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-22T07:45:29.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.fs",
+              "DocumentMoniker": "E:\\GitHub\\Funcional  programming\\Task1\\Program.fs",
+              "RelativeDocumentMoniker": "Program.fs",
+              "ToolTip": "E:\\GitHub\\Funcional  programming\\Task1\\Program.fs",
+              "RelativeToolTip": "Program.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-22T07:35:00.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.fs",
+              "DocumentMoniker": "E:\\GitHub\\Funcional  programming\\Task 2\\Program.fs",
+              "RelativeDocumentMoniker": "..\\Task 2\\Program.fs",
+              "ToolTip": "E:\\GitHub\\Funcional  programming\\Task 2\\Program.fs",
+              "RelativeToolTip": "..\\Task 2\\Program.fs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T09:57:28.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
